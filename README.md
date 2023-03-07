@@ -1,7 +1,7 @@
 # UFO Analysis
 
 ## Purpose
-The purpose of this analysis is to create a web application that users can easliy navigate and sort through UFO data. The goal was to familiarize myself with the Javascript language and allow users who are not to be able to easily sort through the data usining specific parameters. I was taked with adding several more search criteria including city, state, country and shape. 
+The purpose of this analysis is to create a web application that users can easliy navigate and sort through UFO data. This project had a relatively small data set with about 100 rows and 7 different columns. Although the data set is small the main goal to familiarize myself with the Javascript language and allow users who are not to be able to easily sort through the data usining specific parameters. I added several more search criteria including city, state, country and shape to encourage the users to narrow their searches. 
 
 ### Results
 The web application is very user friendly as it follows several of the the same things other websites utilize. When a user first opens the website they will notice the title of the website and a brief paragraph outlineing the purpose of the web app.
